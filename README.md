@@ -30,7 +30,7 @@ Earn The "Foundation C# with Microsoft Certificate" (from FreeCodeCamp and Micro
 
 This course offers a comprehensive introduction to C# programming, covering its core concepts, syntax, and practical application in software development.
 
-# 1. Write Your First Code Using C# [7 Tasks]
+# 1. Write Your First Code Using C# [7 Tasks] [[Issue Link]](https://github.com/tonyjustdevs/learning_csharp/issues/2)
 Begin your journey by learning to write your first code using C#. Develop a strong foundation as you explore the fundamentals and syntax of the language, setting the stage for your programming adventures.
 
 - [ ] Write Your First C# Code
@@ -41,7 +41,7 @@ Begin your journey by learning to write your first code using C#. Develop a stro
 - [ ] Guided Project - Calculate Final GPA
 - [ ] Trophy - Write Your First Code Using C#
 
-# 2. Create and Run Simple C# Console Applications [8 Tasks]
+# 2. Create and Run Simple C# Console Applications [8 Tasks] [[Issue Link]](https://github.com/tonyjustdevs/learning_csharp/issues/3)
 Master the art of creating and running simple C# console applications. Dive into the world of console-based programming, where you will gain hands-on experience executing your code and seeing it in action.
 
 - [ ] Install and Configure Visual Studio Code
@@ -53,7 +53,7 @@ Master the art of creating and running simple C# console applications. Dive into
 - [ ] Challenge Project - Develop foreach and if-elseif-else Structures to Process Array Data in C#
 - [ ] Trophy - Create and Run Simple C# Console Applications
 
-# 3. Add Logic to C# Console Applications [8 Tasks]
+# 3. Add Logic to C# Console Applications [8 Tasks] [[Issue Link]](https://github.com/tonyjustdevs/learning_csharp/issues/4)
 Unlock the power of logic in C# console applications. Learn how to add logic and decision-making capabilities to your code, enabling your applications to make dynamic choices and respond intelligently to different scenarios.
 
 - [ ] Evaluate Boolean Expressions to Make Decisions in C#
@@ -65,7 +65,7 @@ Unlock the power of logic in C# console applications. Learn how to add logic and
 - [ ] Challenge Project - Develop Branching and Looping Structures in C#
 - [ ] Trophy - Add Logic to C# Console Applications
 
-# 4. Work with Variable Data in C# Console Applications [8 Tasks]
+# 4. Work with Variable Data in C# Console Applications [8 Tasks] [[Issue Link]](https://github.com/tonyjustdevs/learning_csharp/issues/5)
 Discover the versatility of variable data in C# console applications. Harness the ability to store and manipulate different types of data, such as numbers and text, as you delve into the essential concepts of variables and data handling.
 
 - [ ] Choose the Correct Data Type in Your C# Code
@@ -77,7 +77,7 @@ Discover the versatility of variable data in C# console applications. Harness th
 - [ ] Challenge Project - Work with Variable Data in C#
 - [ ] Trophy - Work with Variable Data in C# Console Applications
 
-# 5. Create Methods in C# Console Applications [6 Tasks]
+# 5. Create Methods in C# Console Applications [6 Tasks] [[Issue Link]](https://github.com/tonyjustdevs/learning_csharp/issues/6)
 Take your C# console applications to the next level by mastering the art of creating methods. Learn how to organize and modularize your code, making it more manageable, reusable, and efficient.
 
 - [ ] Write Your First C# Method
@@ -87,7 +87,7 @@ Take your C# console applications to the next level by mastering the art of crea
 - [ ] Challenge Project - Create a Mini-Game
 - [ ] Trophy - Create Methods in C# Console Applications
 
-# 6. Debug C# Console Applications [7 Tasks]
+# 6. Debug C# Console Applications [7 Tasks] [[Issue Link]](https://github.com/tonyjustdevs/learning_csharp/issues/7)
 Sharpen your troubleshooting skills as you dive into the world of debugging C# console applications. Gain the ability to identify and fix issues in your code, ensuring your applications run smoothly and deliver the desired results.
 
 - [ ] Review the Principles of Code Debugging and Exception Handling
@@ -98,7 +98,7 @@ Sharpen your troubleshooting skills as you dive into the world of debugging C# c
 - [ ] Challenge Project - Debug a C# Console Application Using Visual Studio Code
 - [ ] Trophy - Debug C# Console Applications
 
-# 7. Foundational C# with Microsoft Certification Exam [2 Tasks]
+# 7. Foundational C# with Microsoft Certification Exam [2 Tasks] [[Issue Link]](https://github.com/tonyjustdevs/learning_csharp/issues/8)
 Use what you've learned to pass the exam to earn your Foundational C# with Microsoft Certification
 
 - [ ] Foundational C# with Microsoft Certification Exam
