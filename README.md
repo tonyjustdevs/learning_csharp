@@ -87,7 +87,7 @@ Take your C# console applications to the next level by mastering the art of crea
 - [ ] Challenge Project - Create a Mini-Game
 - [ ] Trophy - Create Methods in C# Console Applications
 
-# 7. Debug C# Console Applications [7 Tasks]
+# 6. Debug C# Console Applications [7 Tasks]
 Sharpen your troubleshooting skills as you dive into the world of debugging C# console applications. Gain the ability to identify and fix issues in your code, ensuring your applications run smoothly and deliver the desired results.
 
 - [ ] Review the Principles of Code Debugging and Exception Handling
@@ -98,7 +98,7 @@ Sharpen your troubleshooting skills as you dive into the world of debugging C# c
 - [ ] Challenge Project - Debug a C# Console Application Using Visual Studio Code
 - [ ] Trophy - Debug C# Console Applications
 
-# 8. Foundational C# with Microsoft Certification Exam [2 Tasks]
+# 7. Foundational C# with Microsoft Certification Exam [2 Tasks]
 Use what you've learned to pass the exam to earn your Foundational C# with Microsoft Certification
 
 - [ ] Foundational C# with Microsoft Certification Exam
